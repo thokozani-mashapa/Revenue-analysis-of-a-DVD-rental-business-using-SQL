@@ -1,16 +1,14 @@
 # Revenue Analysis Of a DVD Rental Business using SQL
 
 ## Business Problem
-The DVD company does not have clear visibility into revenue.
-Managemant wants to know:
+The DVD company does not have clear visibility into revenue, so the managemant wants to know:
 - Total revenue generated
 - Which stores perform better
 - Which categories are most profitable
 - How revenue changes over time
 
 ## Dataset Overview
-This project uses **Sakila sample database** (MySQL)
-Tables used:
+This project uses **Sakila sample database** (MySQL) and these are the tables used for the project:
 - payment - contains revenue transactions
 - rental - rental details
 - inventory - films available in stores
